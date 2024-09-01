@@ -13,4 +13,4 @@ phases:
 
   build:
     commands:
-      - eb deploy Flask-Elastic-Beanstalk
+      - eb deploy flask-continuous-delivery-env
