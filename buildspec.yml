@@ -13,4 +13,4 @@ phases:
 
   build:
     commands:
-      - make deploy
+      - eb deploy Flask-Elastic-Beanstalk
