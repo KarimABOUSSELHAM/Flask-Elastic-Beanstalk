@@ -17,5 +17,5 @@ phases:
   post_build:
     commands:
       - echo "Starting deployment to Elastic Beanstalk..."
-      - eb deploy flask-continuous-delivery-env
+      - eb deploy flask-continuous-delivery-env --profile eb-cli
 
