@@ -60,6 +60,7 @@ Please also check the content of your credentials file located under the same di
 `aws_secret_access_key = YOUR_SECRET_ACCESS_KEY`
 
   **7.** Setup AWS Code Build Project through these steps:
+  
       1. Sign in to AWS Management Console:
             - Navigate to the AWS CodeBuild console.
       2. Create a New Build Project:
